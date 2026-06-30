@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://madisonpestcontrolsquad.com/sitemap.xml
